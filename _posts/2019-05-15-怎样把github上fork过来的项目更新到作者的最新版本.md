@@ -10,6 +10,7 @@ tags:
 ---
 
 &emsp;&emsp;github的pull request的功能是如果你fork了某人的项目，并对原作者的代码进行了一些修改，想要合并到他的项目中，那你就可以通过pull request来请求合并。如果你只是想备份一个仓库，而原作者对自己的代码有了更新，你想要同步到自己的github上，该如何解决呢？我们可以将pull request反过来用，将我们fork过来的项目作为被合并的项目，而原作者的项目作为请求合并的项目。这样通过pull request，我们就可以把原作者最新的项目同步到我们的项目上。
+
 1.点击New pull request
 ![new_pull_request](/img/190515-new_pull_request.png)
  
